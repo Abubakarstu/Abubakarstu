@@ -5,8 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=700&color=6C63FF&center=true&vCenter=true&width=700&lines=Senior+Software+Engineer+%40+Shomeli+Furniture;Full-Stack+.NET+Core+%7C+C%23+%7C+SQL+Server;%F0%9F%93%9E+Twilio+Certified+%E2%80%94+Voice+%26+SMS+Systems;%E2%98%81%EF%B8%8F+Cloud-Native%3A+AWS+%7C+Docker+%7C+Kubernetes;%F0%9F%94%81+Clean+Architecture+%7C+SOLID+%7C+Agile%2FScrum" alt="Typing SVG"/>
 
 <br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="420">
+![Developer Animation](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
 
 <br/><br/>
 
@@ -209,11 +208,6 @@ Building containerized, cloud-ready applications with
 
 
 ## 🐍 &nbsp;Live Contribution Snake
-
-A snake that actually eats through your real contribution graph, regenerated
-automatically every day by a GitHub Action — the closest thing to real
-animation a README can have.
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Abubakarstu/Abubakarstu/output/github-contribution-grid-snake-dark.svg" width="90%"/>
