@@ -111,7 +111,7 @@ Building containerized, cloud-ready applications with
 
 **Languages & Core**
 <br/>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,html,css&perline=6" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nextjs,reactjs,js,ts,html,css&perline=6" />
 
 **Backend & Architecture**
 <br/>
