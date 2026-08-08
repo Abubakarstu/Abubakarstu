@@ -26,7 +26,14 @@
 
 ## 🧑‍💻 &nbsp;About Me
 
-<img align="right" width="260" src="https://media.licdn.com/dms/image/v2/D4D35AQHvo-dn5j7WHw/profile-framedphoto-shrink_400_400/B4DZ.uK8M6JAAU-/0/1785333531927?e=1786784400&v=beta&t=wl3yaNO3Fq2yLeGgMxvL298WFDNmG3mpK42eCwIjlo4">
+<img
+  align="right"
+  width="260"
+  height="260"
+  src="https://media.licdn.com/dms/image/v2/D4D35AQHvo-dn5j7WHw/profile-framedphoto-shrink_400_400/B4DZ.uK8M6JAAU-/0/1785333531927?e=1786784400&v=beta&t=wl3yaNO3Fq2yLeGgMxvL298WFDNmG3mpK42eCwIjlo4"
+  style="border-radius: 50%; object-fit: cover;"
+  alt="Profile Photo"
+/>
 
 I'm a **Full-Stack .NET Developer** and **certified Twilio Developer** who builds
 scalable, secure, high-performance software — specializing in wiring real-time
