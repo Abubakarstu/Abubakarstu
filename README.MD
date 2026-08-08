@@ -243,4 +243,3 @@ animation a README can have.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F22F46,50:6C63FF,100:0A66C2&height=150&section=footer" width="100%"/>
