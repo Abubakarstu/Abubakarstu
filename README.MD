@@ -225,17 +225,7 @@ animation a README can have.
 
 </div>
 
-<details>
-<summary>⚙️ How to activate this (one-time setup)</summary>
 
-<br/>
-
-1. Put the `snake.yml` file inside `.github/workflows/snake.yml` in this repo (not in the root — it must be under `.github/workflows/`).
-2. Go to **Settings → Actions → General → Workflow permissions** and select **Read and write permissions**, then save. Without this, the Action can't push the generated SVG to the `output` branch.
-3. Go to the **Actions** tab → select **Generate Snake Animation** → **Run workflow** to trigger it manually the first time (it also runs automatically on every push to `main` and once daily after that).
-4. Once it finishes, an `output` branch appears with the SVG files, and the image tag above starts rendering automatically.
-
-</details>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&width=100%"/>
 
