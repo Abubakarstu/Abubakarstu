@@ -116,11 +116,16 @@ Building containerized, cloud-ready applications with
 **Backend & Architecture**
 <br/>
 <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+<img src="https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
 <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
 <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge">
 <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
 <img src="https://img.shields.io/badge/Clean_Architecture-6C63FF?style=for-the-badge">
 <img src="https://img.shields.io/badge/SOLID_Principles-6C63FF?style=for-the-badge">
+
+**Desktop Development**
+<br/>
+<img src="https://img.shields.io/badge/Electron.js-47848F?style=for-the-badge&logo=electron&logoColor=white">
 
 **Database**
 <br/>
@@ -137,9 +142,21 @@ Building containerized, cloud-ready applications with
 **Cloud, DevOps & Tools**
 <br/>
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,vscode,postman&perline=7" />
+<br/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white">
+<img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
+<img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white">
+<img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
 
 </div>
 
+<div align="center">
+
+Specializing in **.NET / .NET Core** backend systems, **Electron.js** desktop apps, and **Twilio**-powered communication solutions.
+
+</div>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=4&width=100%"/>
 
 ## 📈 &nbsp;Career Timeline
