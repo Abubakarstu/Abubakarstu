@@ -198,20 +198,15 @@ Building containerized, cloud-ready applications with
 
 ## 📊 &nbsp;GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Abubakarstu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abubakarstu&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=Abubakarstu&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abubakarstu&theme=tokyo-night&hide_border=true" width="90%"/>
-
+<div align="center"> 
+<img src="https://github-readme-stats.vercel.app/api?username=Abubakarstu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abubakarstu&layout=compact&theme=tokyonight&hide_border=true" height="165"/> 
+<img src="https://streak-stats.demolab.com?user=Abubakarstu&theme=tokyonight&hide_border=true"/> 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abubakarstu&theme=tokyo-night&hide_border=true" width="90%"/> 
 <img src="https://github-profile-trophy.vercel.app/?username=Abubakarstu&theme=darkhub&no-frame=true&row=1&column=6" width="90%"/>
-
-</div>
-
+</div> 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=4&width=100%"/>
+
 
 ## 🐍 &nbsp;Live Contribution Snake
 
