@@ -126,7 +126,7 @@ Building containerized, cloud-ready applications with
 **Desktop Development**
 <br/>
 <img src="https://img.shields.io/badge/Electron.js-47848F?style=for-the-badge&logo=electron&logoColor=white">
-
+<img src="https://skillicons.dev/icons?i=cs,dotnet,wpf,winforms,react,nextjs,ts,js,html,css&perline=6" />
 **Database**
 <br/>
 <img src="https://skillicons.dev/icons?i=mssql" />
