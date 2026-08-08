@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="420">
 
 <br/><br/>
 
@@ -28,7 +28,7 @@
 
 ## 🧑‍💻 &nbsp;About Me
 
-<img align="right" width="260" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif">
 
 I'm a **Full-Stack .NET Developer** and **certified Twilio Developer** who builds
 scalable, secure, high-performance software — specializing in wiring real-time
@@ -211,8 +211,6 @@ Building containerized, cloud-ready applications with
 
 </div>
 
-> Replace `Abubakarstu` above with your real GitHub username wherever it appears.
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=4&width=100%"/>
 
 ## 🐍 &nbsp;Live Contribution Snake
@@ -232,9 +230,10 @@ animation a README can have.
 
 <br/>
 
-1. Create the file `.github/workflows/snake.yml` in your profile repo (`Abubakarstu/Abubakarstu`) — I've generated it for you below (`snake.yml`), just download and add it.
-2. Push it to your `main` branch. The Action runs automatically and creates an `output` branch with the animated SVG.
-3. The image tag above already points at that branch/file — once the Action runs once, the snake will appear and animate on its own, refreshing daily.
+1. Put the `snake.yml` file inside `.github/workflows/snake.yml` in this repo (not in the root — it must be under `.github/workflows/`).
+2. Go to **Settings → Actions → General → Workflow permissions** and select **Read and write permissions**, then save. Without this, the Action can't push the generated SVG to the `output` branch.
+3. Go to the **Actions** tab → select **Generate Snake Animation** → **Run workflow** to trigger it manually the first time (it also runs automatically on every push to `main` and once daily after that).
+4. Once it finishes, an `output` branch appears with the SVG files, and the image tag above starts rendering automatically.
 
 </details>
 
