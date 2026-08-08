@@ -239,7 +239,7 @@ animation a README can have.
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Building+reliable+software.+Solving+real-world+problems.;One+clean+commit+at+a+time.+⭐+Star+a+repo+if+it+helped+you!"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Building+reliable+software.+Solving+real-world+problems.;One+clean+commit+at+a+time.+%E2%AD%90+Star+a+repo+if+it+helped+you%21"/> </div> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F22F46,50:6C63FF,100:0A66C2&height=150&section=footer" width="100%"/>
 
 </div>
 
