@@ -5,7 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=700&color=6C63FF&center=true&vCenter=true&width=700&lines=Senior+Software+Engineer+%40+Shomeli+Furniture;Full-Stack+.NET+Core+%7C+C%23+%7C+SQL+Server;%F0%9F%93%9E+Twilio+Certified+%E2%80%94+Voice+%26+SMS+Systems;%E2%98%81%EF%B8%8F+Cloud-Native%3A+AWS+%7C+Docker+%7C+Kubernetes;%F0%9F%94%81+Clean+Architecture+%7C+SOLID+%7C+Agile%2FScrum" alt="Typing SVG"/>
 
 <br/>
-![Developer Animation](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
 
 <br/><br/>
 
