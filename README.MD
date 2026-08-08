@@ -126,7 +126,7 @@ Building containerized, cloud-ready applications with
 **Desktop Development**
 <br/>
 <img src="https://img.shields.io/badge/Electron.js-47848F?style=for-the-badge&logo=electron&logoColor=white">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,wpf,winforms,react,nextjs,ts,js,html,css&perline=6" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js&perline=6" />
 **Database**
 <br/>
 <img src="https://skillicons.dev/icons?i=mssql" />
@@ -135,7 +135,15 @@ Building containerized, cloud-ready applications with
 
 **Communication APIs**
 <br/>
-<img src="https://img.shields.io/badge/Twilio-Voice_%26_SMS-F22F46?style=for-the-badge&logo=twilio&logoColor=white">
+<img src="https://img.shields.io/badge/Twilio-Voice%20%26%20SMS-F22F46?style=for-the-badge&logo=twilio&logoColor=white">
+<img src="https://img.shields.io/badge/Twilio-API%20Integration-F22F46?style=for-the-badge&logo=twilio&logoColor=white">
+<img src="https://img.shields.io/badge/Twilio-Programmable%20Voice-F22F46?style=for-the-badge&logo=twilio&logoColor=white">
+<img src="https://img.shields.io/badge/Twilio-Messaging%20API-F22F46?style=for-the-badge&logo=twilio&logoColor=white">
+<img src="https://img.shields.io/badge/Twilio-Verify-F22F46?style=for-the-badge&logo=twilio&logoColor=white">
+<img src="https://img.shields.io/badge/Twilio-WhatsApp-F22F46?style=for-the-badge&logo=twilio&logoColor=white">
+<img src="https://img.shields.io/badge/Twilio-Video-F22F46?style=for-the-badge&logo=twilio&logoColor=white">
+<img src="https://img.shields.io/badge/Twilio-Conversations-F22F46?style=for-the-badge&logo=twilio&logoColor=white">
+<img src="https://img.shields.io/badge/Twilio-Notify-F22F46?style=for-the-badge&logo=twilio&logoColor=white">
 <img src="https://img.shields.io/badge/Payment_Gateways-635BFF?style=for-the-badge&logo=stripe&logoColor=white">
 <img src="https://img.shields.io/badge/Email_%26_SMS_APIs-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 
