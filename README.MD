@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:6C63FF,100:F22F46&height=260&section=header&text=Muhammad%20Abubakar&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20.NET%20Core%20Developer%20%7C%20Twilio%20Certified%20Developer&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=700&color=6C63FF&center=true&vCenter=true&width=700&lines=Senior+Software+Engineer+%40+Shomeli+Furniture;Full-Stack+.NET+Core+%7C+C%23+%7C+SQL+Server;%F0%9F%93%9E+Twilio+Certified+%E2%80%94+Voice+%26+SMS+Systems;%E2%98%81%EF%B8%8F+Cloud-Native%3A+AWS+%7C+Docker+%7C+Kubernetes;%F0%9F%94%81+Clean+Architecture+%7C+SOLID+%7C+Agile%2FScrum" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=700&color=6C63FF&center=true&vCenter=true&width=800&lines=Senior+Software+Engineer+%40+Shomeli+Furniture;Senior+Full-Stack+.NET+%7C+C%23+%7C+ASP.NET+Core+%7C+SQL+Server;%F0%9F%93%9E+Twilio+Certified+Developer+%7C+Voice+%7C+SMS+%7C+WhatsApp;%F0%9F%8C%90+REST+APIs+%7C+Microservices+%7C+Enterprise+Integrations;%E2%98%81%EF%B8%8F+AWS+%7C+Azure+%7C+Docker+%7C+Kubernetes;%F0%9F%94%81+Clean+Architecture+%7C+SOLID+%7C+DevOps" alt="Typing SVG"/>
 
 <br/>
 
