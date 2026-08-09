@@ -56,7 +56,26 @@ status: 🟢 Open to remote opportunities & freelance projects
 <br clear="right"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=4&width=100%"/>
+📌  Featured Repositories
+<table width="100%"> <tr> <td width="50%" valign="top">
+🔄 OpenSync
 
+General-purpose real-time data synchronization library for .NET 8. Sync Documents, Lists, Maps, Streams & Channels over WebSocket, SSE, or Long-Polling — embeddable via NuGet or run as a standalone service.
+
+<img src="https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"> <img src="https://img.shields.io/badge/WebSocket-000000?style=for-the-badge"> <img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white">
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abubakarstu&repo=OpenSync&theme=tokyonight&hide_border=true" width="100%"/> </td> <td width="50%" valign="top">
+🌐 Bonobo Git Server
+
+A web-based Git server for Windows/IIS, making it easy to host, manage, and connect to Git repositories without leaving the Microsoft stack.
+
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"> <img src="https://img.shields.io/badge/IIS-0078D4?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/Git_Server-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abubakarstu&repo=Bonobo-Git-Server&theme=tokyonight&hide_border=true" width="100%"/> </td> </tr> </table> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=4&width=100%"/>
 ## 🚀 &nbsp;Currently Building
 
 <table width="100%">
