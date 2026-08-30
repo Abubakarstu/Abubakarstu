@@ -35,10 +35,10 @@
 ## 🧑‍💻 &nbsp;Über mich
 
 <img
-  align="right"
+  align="left"
   width="260"
   height="260"
-  src="https://media.licdn.com/dms/image/v2/D4D35AQHvo-dn5j7WHw/profile-framedphoto-shrink_400_400/B4DZ.uK8M6JAAU-/0/1785333531927?e=1786784400&v=beta&t=wl3yaNO3Fq2yLeGgMxvL298WFDNmG3mpK42eCwIjlo4"
+  src="https://media.licdn.com/dms/image/v2/D4D35AQEAMXtFtPZJdA/profile-framedphoto-shrink_200_200/B4DZ_51VkwGwAU-/0/1786602937031?e=1788681600&v=beta&t=5E9SYfGW3TttUoLmtxnyVQAAk4ZUcwGDXqlJVhFhClE"
   style="border-radius: 50%; object-fit: cover;"
   alt="Profile Photo"
 />
