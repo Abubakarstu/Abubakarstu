@@ -40,7 +40,7 @@
   align="left"
   width="260"
   height="260"
-  src="https://media.licdn.com/dms/image/v2/D4D35AQHvo-dn5j7WHw/profile-framedphoto-shrink_400_400/B4DZ.uK8M6JAAU-/0/1785333531927?e=1786784400&v=beta&t=wl3yaNO3Fq2yLeGgMxvL298WFDNmG3mpK42eCwIjlo4"
+  src="[https://media.licdn.com/dms/image/v2/D4D35AQHvo-dn5j7WHw/profile-framedphoto-shrink_400_400/B4DZ.uK8M6JAAU-/0/1785333531927?e=1786784400&v=beta&t=wl3yaNO3Fq2yLeGgMxvL298WFDNmG3mpK42eCwIjlo4](https://media.licdn.com/dms/image/v2/D4D35AQEAMXtFtPZJdA/profile-framedphoto-shrink_100_100/B4DZ_51VkwGwAg-/0/1786602937031?e=1788681600&v=beta&t=oRITUT9k3qL6etsgBgYT94nfD9wPvvhdZtt_7tS_A2U)"
   style="border-radius: 50%; object-fit: cover;"
   alt="Profile Photo"
 />
