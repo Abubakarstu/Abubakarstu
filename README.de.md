@@ -34,14 +34,7 @@
 
 ## 🧑‍💻 &nbsp;Über mich
 
-<img
-  align="left"
-  width="260"
-  height="260"
-  src="https://media.licdn.com/dms/image/v2/D4D35AQEAMXtFtPZJdA/profile-framedphoto-shrink_200_200/B4DZ_51VkwGwAU-/0/1786602937031?e=1788681600&v=beta&t=5E9SYfGW3TttUoLmtxnyVQAAk4ZUcwGDXqlJVhFhClE"
-  style="border-radius: 50%; object-fit: cover;"
-  alt="Profile Photo"
-/>
+
 
 Ich bin ein **Full-Stack .NET-Entwickler** und **zertifizierter Twilio-Entwickler**, der skalierbare, sichere und
 performante Software entwickelt — mit Schwerpunkt auf der Integration von Echtzeitkommunikation (Sprache, SMS,
@@ -54,7 +47,7 @@ als langjähriger Freelancer geliefert.
 ```yaml
 role: Senior Software Engineer | Full-Stack .NET Core Developer
 specialty: Twilio Voice & SMS | Real-Time Communication Systems
-experience: 7+ years shipping production software
+experience: 3+ years shipping production software
 stack: ASP.NET Core • C# • SQL Server • EF Core • REST APIs • Cloud-Native
 principles: Clean Architecture | SOLID | Agile / Scrum
 currently: Modernizing a legacy ERP → ASP.NET Core + SQL Server platform
